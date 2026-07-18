@@ -6,7 +6,7 @@
  <div align="center">
 
  [![GitHub](https://img.shields.io/badge/GitHub-shashanksrinivas79-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shashanksrinivas79)
- [![](https://visitcount.itsvg.in/api?id=shashanksrinivas79&icon=0&color=0)](https://visitcount.itsvg.in)
+ ![](https://komarev.com/ghpvc/?username=shashanksrinivas79&style=flat-square&color=2563eb)
 
  </div>
 
