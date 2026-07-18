@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shashank+Srinivas+Midididdi%3B+Data+Engineer+%2F+Data+Analyst%3B+Turning+data+into+pipelines+%26+dashboards)](https://github.com/shashanksrinivas79)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shashank+Srinivas+Midididdi%3B+Data+Engineer+%2F+Data+Analyst%3B+Turning+messy+data+into+pipelines+%26+dashboards)](https://github.com/shashanksrinivas79)
 
  </div>
  <div align="center">
@@ -11,7 +11,18 @@
  </div>
 
  # 💫 About Me:
- I'm Shashank Srinivas Midididdi, a Master's student in Information Technology at Arizona State University, working toward a career as a Data Engineer / Data Analyst. I like turning messy, real-world data into pipelines, dashboards, and applications people can actually use — from Snowflake ETL pipelines to NLP-powered sentiment dashboards to full-stack web platforms. Currently exploring cloud data engineering (Snowflake, AWS, GCP, Azure) and sharpening my skills through hands-on projects rather than just tutorials.
+ <img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqMXY1Ymhwb2dkNmlobmptbzIxcm9wN3B1bXQxeDJwY3VwY3hkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+ I'm a data engineer and analyst focused on building reliable pipelines, cloud-based data platforms, and analytics-ready dashboards.
+
+ Currently pursuing a Master of Science in Information Technology at Arizona State University, I enjoy turning messy, real-world data into pipelines and dashboards that people can actually use.
+
+ • Building ETL/ELT pipelines with Snowflake, SQL, and Python<br/>
+ • Creating analytics dashboards and NLP-powered sentiment tools with Flask and Plotly<br/>
+ • Exploring cloud platforms (AWS, GCP, Azure) and scalable data infrastructure<br/>
+ • Looking for Data Engineer / Data Analyst roles where I can keep learning and ship real solutions
+
+ <br clear="right" />
 
  ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-midididdi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midididdishashanksrinivas@gmail.com)
@@ -35,4 +46,5 @@
  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashanksrinivas79&theme=dark&hide_border=false&layout=compact" />
 
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
  
