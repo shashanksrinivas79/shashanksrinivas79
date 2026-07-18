@@ -41,9 +41,12 @@
  **[Visa Sponsor Checker](https://github.com/shashanksrinivas79/visa-sponsor-checker)** — Chrome extension that scans LinkedIn and Indeed job postings in real time and flags whether a role offers visa sponsorship.
 
  # 📊 GitHub Stats:
- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=shashanksrinivas79&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com/?user=shashanksrinivas79&theme=dark&hide_border=false)
+ <div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shashanksrinivas79&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=shashanksrinivas79&theme=dark&hide_border=false" />
+ 
 
- <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashanksrinivas79&theme=dark&hide_border=false&layout=compact" />
+ <img width="50%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashanksrinivas79&theme=dark&hide_border=false&layout=compact" />
 
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
