@@ -18,13 +18,11 @@ I'm Shashank Srinivas Midididdi, a Master's student in Information Technology at
 **[Visa Sponsor Checker](https://github.com/shashanksrinivas79/visa-sponsor-checker)** — Chrome extension that scans LinkedIn and Indeed job postings in real time and flags whether a role offers visa sponsorship.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=shashanksrinivas79&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shashanksrinivas79&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashanksrinivas79&theme=dark&hide_border=false&layout=compact)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=shashanksrinivas79&theme=react-dark)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=shashanksrinivas79&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com/?user=shashanksrinivas79&theme=dark&hide_border=false)
+
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashanksrinivas79&theme=dark&hide_border=false&layout=compact" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shashanksrinivas79&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
