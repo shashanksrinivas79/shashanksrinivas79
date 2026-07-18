@@ -1,6 +1,6 @@
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shashank+Midididdi%3B+Data+Engineer%3B+Turning+messy+data+into+pipelines+%26+dashboards)](https://github.com/shashanksrinivas79)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shashank+Midididdi%3B+Data+Engineer%3B+Turning+data+into+pipelines+%26+dashboards)](https://github.com/shashanksrinivas79)
 
  </div>
  <div align="center">
