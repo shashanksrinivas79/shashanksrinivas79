@@ -10,19 +10,27 @@
 
  </div>
 
- # 💫 About Me:
- <img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqMXY1Ymhwb2dkNmlobmptbzIxcm9wN3B1bXQxeDJwY3VwY3hkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+# 💫 About Me:
 
- I'm a data engineer and analyst focused on building reliable pipelines, cloud-based data platforms, and analytics-ready dashboards.
-
- Currently pursuing a Master of Science in Information Technology at Arizona State University, I enjoy turning messy, real-world data into pipelines and dashboards that people can actually use.
-
- • Building ETL/ELT pipelines with Snowflake, SQL, and Python<br/>
- • Creating analytics dashboards and NLP-powered sentiment tools with Flask and Plotly<br/>
- • Exploring cloud platforms (AWS, GCP, Azure) and scalable data infrastructure<br/>
- • Looking for Data Engineer / Data Analyst roles where I can keep learning and ship real solutions
-
- <br clear="right" />
+<table width="100%">
+  <tr>
+    <!-- Left Column: Bio & Experience -->
+    <td width="65%" valign="top" style="padding: 20px;">
+      <p>I'm a data engineer and analyst focused on building reliable pipelines, cloud-based data platforms, and analytics-ready dashboards.</p>
+      <p>Currently pursuing a Master of Science in Information Technology at Arizona State University, I enjoy turning messy, real-world data into pipelines and dashboards that people can actually use.</p>
+      <ul>
+        <li>Building ETL/ELT pipelines with Snowflake, SQL, and Python</li>
+        <li>Creating analytics dashboards and NLP-powered sentiment tools with Flask and Plotly</li>
+        <li>Exploring cloud platforms (AWS, GCP, Azure) and scalable data infrastructure</li>
+        <li>Looking for Data Engineer / Data Analyst roles where I can keep learning and ship real solutions</li>
+      </ul>
+    </td>
+    <!-- Right Column: Image/GIF -->
+    <td width="35%" valign="middle" align="center" style="padding: 10px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqMXY1Ymhwb2dkNmlobmptbzIxcm9wN3B1bXQxeDJwY3VwY3hkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
  ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-midididdi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midididdishashanksrinivas@gmail.com)
